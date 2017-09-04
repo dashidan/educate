@@ -5,8 +5,6 @@ package lession17;
  *
  * 教程: 17.Java流程控制(2)：switch,case,break,default
  * Demo1: 基础switch case 示例
- *
- * Created by Sinbad on 2017/9/1.
  */
 public class Demo1 {
 
