@@ -15,10 +15,11 @@ public class Demo3 {
 
     /**
      * 测试switch case参数为字符串
+     *
      * @param var 传入的case字符串
      */
     public static void testSwitchCaseString(String var) {
-        switch(var){
+        switch (var) {
             case "a":
                 System.out.println("a");
                 break;

@@ -15,10 +15,11 @@ public class Demo2 {
 
     /**
      * 测试case没有break的情况
+     *
      * @param var 传入的case参数
      */
     public static void testSwitchWithoutBreak(int var) {
-        switch(var){
+        switch (var) {
             case 1:
                 System.out.println(1);
             case 2:
